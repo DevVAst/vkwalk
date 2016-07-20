@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">vkwalk</string>
+    <integer name="com_vk_sdk_AppId">5531084</integer>
+
+    <string name="action_sign_in_short">Sign in with VK</string>
+    <string name="action_sign_in_force">Force OAuth</string>
+    <string name="users_get">users.get</string>
+    <string name="friends_get">friends.get</string>
+    <string name="messages_get">messages.get</string>
+    <string name="dialogs_get">dialogs.get</string>
+    <string name="captcha_force">captcha.force</string>
+    <string name="wall_post">wall.post</string>
+    <string name="wall_getById">wall.getById</string>
+    <string name="upload_photo">upload photo</string>
+    <string name="upload_photo_to_wall">upload photo to wall</string>
+    <string name="upload_several_photos_to_wall">upload several photos to wall</string>
+    <string name="upload_doc">upload doc</string>
+    <string name="continue_using_app">Continue using test application</string>
+    <string name="test_validation">Test validation</string>
+    <string name="test_share">Test share dialog</string>
+    <string name="test_send_request">Test send request</string>
+    <string name="logout">Logout</string>
+
+    <string name="send_request_title">Choose friend</string>
+    <string name="subscribe">Подписаться</string>
+    <string name="shouldBeSubsribed">Для использовния приложения вы должны быть подписаны на группу</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="drawer_item_home">Home</string>
+    <string name="drawer_item_free_play">Free Play</string>
+    <string name="drawer_item_custom">Custom</string>
+    <string name="drawer_item_settings">Settings</string>
+    <string name="drawer_item_help">Help</string>
+    <string name="drawer_item_open_source">Open Source</string>
+    <string name="drawer_item_contact">Contact</string>
+</resources>
